@@ -21,14 +21,20 @@ body{
 }
 .container{
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 .container h1{
     font-size: 70px;
 }
 .post{
     padding: 1em;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
 }
