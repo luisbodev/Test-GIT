@@ -3,6 +3,6 @@
 
 *Created by Luis
 
-*Has diferent examples
+*Has different examples
 
 *Available for everyone
